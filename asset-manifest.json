@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MyJournal.io/MYJOURNAL/static/css/main.30ea52ad.css",
+    "main.js": "/MyJournal.io/MYJOURNAL/static/js/main.0a968924.js",
+    "static/js/787.20a7badf.chunk.js": "/MyJournal.io/MYJOURNAL/static/js/787.20a7badf.chunk.js",
+    "index.html": "/MyJournal.io/MYJOURNAL/index.html",
+    "main.30ea52ad.css.map": "/MyJournal.io/MYJOURNAL/static/css/main.30ea52ad.css.map",
+    "main.0a968924.js.map": "/MyJournal.io/MYJOURNAL/static/js/main.0a968924.js.map",
+    "787.20a7badf.chunk.js.map": "/MyJournal.io/MYJOURNAL/static/js/787.20a7badf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30ea52ad.css",
+    "static/js/main.0a968924.js"
+  ]
+}
